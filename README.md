@@ -14,10 +14,9 @@
 
 <img src="images/corr-claim-smoker.png" style="height: 420px;">
 <p style="font-size: 16px;">Após esses estudos concluo que, pessoas fumantes tendem a realizar uma reivindicação de seguro maior do que pessoas não fumantes, muito por conta da própria saúde que é prejudicada pelo próprio cigarro.</p>
-
-<img src="images/bar-region-smoker.png" style="height: 250px;">
 <p style="font-size: 16px;">É interessante notar que mesmo Suldeste sendo a região com mais fumantes em relação as outras, o Nordeste se destaca com a média dos valores de reivindicação de seguro. Acredito que isso é muito por conta da própria população da região, é notado que a população de fumantes de Nordeste é equivalente a quase metade do todos daquela região, por isso que, a média para aquela região consta como maior do que as outras que possui uma percela menor de fumantes em comparação aos não fumantes.</p>
 
+<img src="images/bar-region-smoker.png" style="height: 250px;">
 <p style="float: left;">
   <img src="images/bar-region-mean.png" style="height: 350px; width: 380px">
   <img src="images/boxplot-region-claim.png" style="height: 350px; width: 420px">
